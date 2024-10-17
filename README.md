@@ -45,10 +45,10 @@ Replace `program_name` with the name of the compiled executable.
 1. **Specify the Number of Frames**: The program will prompt you to enter the number of page frames.
 2. **Input Pages to Reference**: The program will prompt you to enter the number of pages and their values.
 3. **Select an Algorithm**: Choose one of the following algorithms:
-   - [ 1 ]: FIFO
-   - [ 2 ]: LRU
-   - [ 3 ]: LFU
-   - [ 4 ]: Second Chance
+   -  1 : FIFO
+   -  2 : LRU
+   -  3 : LFU
+   -  4 : Second Chance
 
 The program will then simulate the chosen algorithm and display the page frames' status and the number of page faults.
 
